@@ -1,2 +1,2 @@
 # Practice
-this is my IIIT assignment 
+this is for my practice 
