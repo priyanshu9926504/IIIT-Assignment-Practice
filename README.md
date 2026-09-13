@@ -1,2 +1,2 @@
-# IIIT-Assignment
+# Practice
 this is my IIIT assignment 
